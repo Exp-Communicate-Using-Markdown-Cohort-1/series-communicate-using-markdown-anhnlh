@@ -1,4 +1,5 @@
-# Repo name
+# Yaktocat supremacy 🐈
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Getting Started
 This section gets your started
 ### Installation
