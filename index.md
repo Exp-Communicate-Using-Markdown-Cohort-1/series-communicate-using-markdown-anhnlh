@@ -13,4 +13,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 ## Contributing
-make sure to follow rules
+Make sure to follow these rules
+- [ ] Pray to the YaktoGods
+- [ ] Sacrifice a Homo Yaktian
+- [ ] Sign-off your name and email in the commit message 😊
